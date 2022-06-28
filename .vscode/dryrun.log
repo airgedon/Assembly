@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/sysadmin/Desktop/ASM'
+make: Leaving directory '/home/sysadmin/Desktop/ASM'
+ 
+Makefile:6: *** missing separator.  Stop.
+
